@@ -1,1 +1,1 @@
-print("core-forge INSERT")
+print("core-forge UPDATE")
